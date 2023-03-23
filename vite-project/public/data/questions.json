@@ -1,0 +1,311 @@
+[{
+        "question": "What is JavaScript used for?",
+        "options": [
+            "Styling web pages",
+            "Creating web pages",
+            "Making web pages interactive",
+            "None of the above"
+        ],
+        "answer": "Making web pages interactive"
+    },
+    {
+        "question": "What is React?",
+        "options": [
+            "A JavaScript library for building user interfaces",
+            "A programming language",
+            "A database management system",
+            "None of the above"
+        ],
+        "answer": "A JavaScript library for building user interfaces"
+    },
+    {
+        "question": "What does the 'DOM' stand for in JavaScript?",
+        "options": [
+            "Document Object Model",
+            "Data Object Management",
+            "Dynamic Object Manipulation",
+            "None of the above"
+        ],
+        "answer": "Document Object Model"
+    },
+    {
+        "question": "What is a closure in JavaScript?",
+        "options": [
+            "A way to hide variables from the global scope",
+            "A way to create private variables and functions",
+            "A way to store data in a temporary cache",
+            "None of the above"
+        ],
+        "answer": "A way to create private variables and functions"
+    },
+    {
+        "question": "What is JSX in React?",
+        "options": [
+            "A syntax for embedding HTML-like code in JavaScript",
+            "A way to declare and manage state in React components",
+            "A server-side rendering framework",
+            "None of the above"
+        ],
+        "answer": "A syntax for embedding HTML-like code in JavaScript"
+    },
+    {
+        "question": "What is the difference between props and state in React?",
+        "options": [
+            "Props are immutable, state is mutable",
+            "Props are mutable, state is immutable",
+            "Props and state are both mutable",
+            "Props and state are both immutable"
+        ],
+        "answer": "Props are immutable, state is mutable"
+    },
+    {
+        "question": "What is the purpose of componentDidMount in React?",
+        "options": [
+            "To initialize state",
+            "To update the DOM",
+            "To perform network requests",
+            "None of the above"
+        ],
+        "answer": "To perform network requests"
+    },
+    {
+        "question": "What is the purpose of the 'useEffect' hook in React?",
+        "options": [
+            "To manage state in functional components",
+            "To perform side effects in functional components",
+            "To create custom hooks",
+            "None of the above"
+        ],
+        "answer": "To perform side effects in functional components"
+    },
+    {
+        "question": "What is a higher-order function in JavaScript?",
+        "options": [
+            "A function that takes another function as an argument or returns a function as its result",
+            "A function that modifies the global scope",
+            "A function that creates new variables",
+            "None of the above"
+        ],
+        "answer": "A function that takes another function as an argument or returns a function as its result"
+    },
+    {
+        "question": "What is the purpose of 'useRef' hook in React?",
+        "options": [
+            "To update state in functional components",
+            "To reference a DOM element in a component",
+            "To perform network requests",
+            "None of the above"
+        ],
+        "answer": "To reference a DOM element in a component"
+    },
+    {
+        "question": "What is a promise in JavaScript?",
+        "options": [
+            "A function that returns a value immediately",
+            "A function that takes a callback as its argument",
+            "An object that represents a value that may not be available yet",
+            "None of the above"
+        ],
+        "answer": "An object that represents a value that may not be available yet"
+    },
+    {
+        "question": "What is the purpose of 'useEffect' hook in React?",
+        "options": [
+            "To manage state in functional components",
+            "To perform side effects in functional components",
+            "To create custom hooks",
+            "None of the above"
+        ],
+        "answer": "To perform side effects in functional components"
+    },
+    {
+        "question": "What is the purpose of 'useState' hook in React?",
+        "options": [
+            "To perform network requests",
+            "To manage state in functional components",
+            "To create custom hooks",
+            "None of the above"
+        ],
+        "answer": "To manage state in functional components"
+    },
+    {
+        "question": "What is a higher-order component in React?",
+        "options": [
+            "A component that takes another component as an argument or returns a component as its result",
+            "A component that modifies the global state",
+            "A component that creates new variables",
+            "None of the above"
+        ],
+        "answer": "A component that takes another component as an argument or returns a component as its result"
+    },
+    {
+        "question": "What is the purpose of 'map' function in JavaScript?",
+        "options": [
+            "To create a new array from an existing array",
+            "To modify the elements of an array in place",
+            "To filter the elements of an array based on a condition",
+            "None of the above"
+        ],
+        "answer": "To create a new array from an existing array"
+    },
+    {
+        "question": "What is a stateless functional component in React?",
+        "options": [
+            "A component that has no state",
+            "A component that has no props",
+            "A component that has no render method",
+            "None of the above"
+        ],
+        "answer": "A component that has no state"
+    },
+    {
+        "question": "What is the difference between 'let' and 'var' in JavaScript?",
+        "options": [
+            "'let' is used to declare variables with block scope, while 'var' has function scope",
+            "'let' is used to declare variables with function scope, while 'var' has block scope",
+            "There is no difference between 'let' and 'var'",
+            "None of the above"
+        ],
+        "answer": "'let' is used to declare variables with block scope, while 'var' has function scope"
+    },
+    {
+        "question": "What is an arrow function in JavaScript?",
+        "options": [
+            "A function with a '=>' syntax for shorter syntax",
+            "A function that has access to 'this' keyword",
+            "A function that takes no arguments",
+            "None of the above"
+        ],
+        "answer": "A function with a '=>' syntax for shorter syntax"
+    },
+    {
+        "question": "What is the purpose of the 'map' function in JavaScript?",
+        "options": [
+            "To create a new array by transforming each element in an existing array",
+            "To add new elements to an existing array",
+            "To filter elements from an existing array",
+            "None of the above"
+        ],
+        "answer": "To create a new array by transforming each element in an existing array"
+    },
+    {
+        "question": "What is the difference between '==' and '===' in JavaScript?",
+        "options": [
+            "'==' compares values and type, while '===' compares values only",
+            "'==' compares values only, while '===' compares values and type",
+            "There is no difference between '==' and '==='",
+            "None of the above"
+        ],
+        "answer": "'==' compares values only, while '===' compares values and type"
+    },
+    {
+        "question": "What is the purpose of the 'useState' hook in React?",
+        "options": [
+            "To create and manage state in functional components",
+            "To perform side effects in functional components",
+            "To create custom hooks",
+            "None of the above"
+        ],
+        "answer": "To create and manage state in functional components"
+    },
+    {
+        "question": "What is the purpose of the 'useContext' hook in React?",
+        "options": [
+            "To access a context object created by 'createContext' function",
+            "To create and manage state in functional components",
+            "To perform side effects in functional components",
+            "None of the above"
+        ],
+        "answer": "To access a context object created by 'createContext' function"
+    },
+    {
+        "question": "What is the purpose of the 'useReducer' hook in React?",
+        "options": [
+            "To manage complex state logic in functional components",
+            "To create and manage state in functional components",
+            "To perform side effects in functional components",
+            "None of the above"
+        ],
+        "answer": "To manage complex state logic in functional components"
+    },
+    {
+        "questions": "What is Node.js?",
+        "options": [
+            "A front-end framework",
+            "A back-end framework",
+            "A database management system",
+            "A programming language"
+        ],
+        "answer": "A back-end framework"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyperlink Markup Language",
+            "Hypertext Markup Language",
+            "Hyperscript Markup Language",
+            "Hypermedia Markup Language"
+        ],
+        "answer": "Hypertext Markup Language"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": [
+            "Cascading Style Sheet",
+            "Computer Style Sheet",
+            "Creative Style Sheet",
+            "Colorful Style Sheet"
+        ],
+        "answer": "Cascading Style Sheet"
+    },
+    {
+        "question": "What is npm?",
+        "options": [
+            "Node.js package manager",
+            "Node.js project manager",
+            "Node.js code editor",
+            "Node.js server"
+        ],
+        "answer": "Node.js package manager"
+    },
+    {
+        "question": "What is the correct HTML tag for the largest heading?",
+        "options": [
+            "<head>",
+            "<h1>",
+            "<h6>",
+            "<header>"
+        ],
+        "answer": "<h1>"
+    },
+    {
+        "question": "What is the correct CSS syntax to change the font color of a paragraph?",
+        "options": [
+            "color: red;",
+            "font-color: red;",
+            "text-color: red;",
+            "font-color: red;"
+        ],
+        "answer": "color: red;"
+    },
+    {
+        "question": "What is the difference between 'require' and 'import' in Node.js?",
+        "options": [
+            "'require' is used for CommonJS modules and 'import' is used for ECMAScript modules",
+            "'require' is used for client-side code and 'import' is used for server-side code",
+            "'require' is used for ECMAScript modules and 'import' is used for CommonJS modules",
+            "'require' and 'import' are interchangeable and can be used interchangeably in any situation"
+        ],
+        "answer": "'require' is used for CommonJS modules and 'import' is used for ECMAScript modules"
+    },
+    {
+        "question": "What is the correct HTML tag for inserting an image?",
+        "options": [
+            "<img>",
+            "<picture>",
+            "<image>",
+            "<src>"
+        ],
+        "answer": "<img>"
+    }
+]
